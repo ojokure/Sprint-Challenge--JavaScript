@@ -38,7 +38,7 @@ Function is a set of statement that performs task defined by the keyword "Functi
 
 3. What is closure?
 
-closures are inner function have their own local scope and has that inside of an outside function theyaccess to outer function scope,they also have access to global variables
+closures are inner functions inside of an outside function that have access to outer function scope,they also have access to global variables
 
 4. Describe the four rules of the 'this' keyword.
 
